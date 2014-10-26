@@ -1,0 +1,7 @@
+{
+	"ui_dir": "/opt/consul/ui",
+	"ports": {
+		"dns": 53
+	},
+	"recursor": "8.8.8.8"
+}
